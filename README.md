@@ -14,7 +14,7 @@ Embedded software engineers develop and implement the software of embedded devic
 * [Unit 2: C Programming](www.google.com)
   * Lecture 1: Intro To Embedded ![100%](https://progress-bar.dev/100)
   * Lecture 2: Git Tutorial ![60%](https://progress-bar.dev/60)
-  * [Lecture 3: C Basics](www.google.com)  ![0%](https://progress-bar.dev/0)
+  * [Lecture 3: C Basics](www.google.com)  ![100%](https://progress-bar.dev/100)
   * Lecture 4: C Arrays & Strings ![0%](https://progress-bar.dev/0) ![0%](https://progress-bar.dev/0)
   * Lecture 5: C Functions ![0%](https://progress-bar.dev/0)
   * Mid Term 1 ![0%](https://progress-bar.dev/0)
