@@ -6,6 +6,7 @@ The question is :
 #include <stdio.h>
 int main()
 {
+    
     char alpha;
     printf("Enter an alphabet: ");
     scanf("%c",&alpha);
@@ -13,4 +14,5 @@ int main()
         printf("%c is a vowel.", alpha);
     else
         printf("%c is a constant. ",alpha);
+       
 }
