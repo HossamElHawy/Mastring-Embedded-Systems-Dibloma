@@ -7,11 +7,11 @@ Embedded software is computer software, written to control machines or devices t
 Embedded software engineers develop and implement the software of embedded devices and systems including smart watches, digital TVs, and electronic control units in a car. They may also be responsible for the analysis and monitoring of the efficiency and stability of a system. They develop and implement embedded devices and systems and support software quality assurance while optimizing I/O performance. They provide post-production support when necessary.
 
 ## Content & My Progress
-### First Term ![21%](https://progress-bar.dev/21?title=InProgress)
+### First Term ![25%](https://progress-bar.dev/25?title=InProgress)
 * Unit 1 (Diploma Prerequisites)
   * Understanding The System ![100%](https://progress-bar.dev/100)
   * Install The Tools ![100%](https://progress-bar.dev/100)
-* [Unit 2: C Programming](www.google.com)
+* [Unit 2: C Programming](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing)
   * Lecture 1: Intro To Embedded ![100%](https://progress-bar.dev/100)
   * Lecture 2: Git Tutorial ![100%](https://progress-bar.dev/100)
   * [Lecture 3: C Basics](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%203%20C%20Basics)  ![100%](https://progress-bar.dev/100)
