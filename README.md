@@ -13,7 +13,7 @@ Embedded software engineers develop and implement the software of embedded devic
   * Install The Tools ![100%](https://progress-bar.dev/100)
 * [Unit 2: C Programming](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing)
   * Lecture 1: Intro To Embedded ![100%](https://progress-bar.dev/100)
-  * Lecture 2: [Git Tutorial] (https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%202%20Learning%20Git) ![100%](https://progress-bar.dev/100)
+  * Lecture 2: [Git Tutorial](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%202%20Learning%20Git) ![100%](https://progress-bar.dev/100)
   * Lecture 3: [C Basics](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%203%20C%20Basics)  ![100%](https://progress-bar.dev/100)
   * Lecture 4: C Arrays & Strings ![0%](https://progress-bar.dev/100) 
   * Lecture 5: C Functions ![0%](https://progress-bar.dev/0)
