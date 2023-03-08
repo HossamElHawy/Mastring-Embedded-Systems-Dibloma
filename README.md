@@ -7,7 +7,7 @@ Embedded software is computer software, written to control machines or devices t
 Embedded software engineers develop and implement the software of embedded devices and systems including smart watches, digital TVs, and electronic control units in a car. They may also be responsible for the analysis and monitoring of the efficiency and stability of a system. They develop and implement embedded devices and systems and support software quality assurance while optimizing I/O performance. They provide post-production support when necessary.
 
 ## Content & My Progress
-### First Term ![25%](https://progress-bar.dev/25?title=InProgress)
+### First Term ![43%](https://progress-bar.dev/25?title=InProgress)
 * Unit 1 (Diploma Prerequisites)
   * Understanding The System ![100%](https://progress-bar.dev/100)
   * Install The Tools ![100%](https://progress-bar.dev/100)
@@ -15,8 +15,8 @@ Embedded software engineers develop and implement the software of embedded devic
   * Lecture 1: Intro To Embedded ![100%](https://progress-bar.dev/100)
   * Lecture 2: [Git Tutorial](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%202%20Learning%20Git) ![100%](https://progress-bar.dev/100)
   * Lecture 3: [C Basics](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%203%20C%20Basics)  ![100%](https://progress-bar.dev/100)
-  * Lecture 4: C Arrays & Strings ![85%](https://progress-bar.dev/85) 
-  * Lecture 5: C Functions ![0%](https://progress-bar.dev/0)
+  * Lecture 4: C Arrays & Strings ![100%](https://progress-bar.dev/100) 
+  * Lecture 5: C Functions ![53%](https://progress-bar.dev/53)
   * Mid Term 1 ![0%](https://progress-bar.dev/0)
   * Lecture 6: Struct & Union & Enum ![0%](https://progress-bar.dev/0)
   * Lecture 7: Pre-processor directives in C ![0%](https://progress-bar.dev/0)
