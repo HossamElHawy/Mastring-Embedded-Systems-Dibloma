@@ -21,6 +21,6 @@ int main()
     printf("Reverse String is : ");
     for (int i = length - 1; i >= 0; i--)
     {
-        printf("%c", string[i]);
+        printf("%c",string[i]);
     }
 }
