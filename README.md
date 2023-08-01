@@ -19,7 +19,7 @@ Embedded software engineers develop and implement the software of embedded devic
   * Lecture 4: [C Arrays & Strings ](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%204%20C%20Array%20%26%26%20string)![100%](https://progress-bar.dev/100) 
   *  Quiz 2 Degree  :  31/36
   *  Quiz 3 Degree  :  38/40  
-  * Lecture 5: [C Functions ](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%205%20C%20Functions) ![53%](https://progress-bar.dev/53)
+  * Lecture 5: [C Functions ](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%205%20C%20Functions) ![100%](https://progress-bar.dev/100)
   * Mid Term 1 ![0%](https://progress-bar.dev/0)
   * Lecture 6: Struct & Union & Enum ![0%](https://progress-bar.dev/0)
   * Lecture 7: Pre-processor directives in C ![0%](https://progress-bar.dev/0)
