@@ -20,9 +20,12 @@ Embedded software engineers develop and implement the software of embedded devic
   *  Quiz 2 Degree  :  31/36
   *  Quiz 3 Degree  :  38/40  
   * Lecture 5: [C Functions ](https://github.com/HossamElHawy/Mastring-Embedded-Systems-Dibloma/tree/main/Term%201/Unit%202%20C%20Programing/Lecture%205%20C%20Functions) ![100%](https://progress-bar.dev/100)
+  * Quiz 4 Degree : 19/34
   * Mid Term 1 ![0%](https://progress-bar.dev/0)
   * Lecture 6: Struct & Union & Enum ![100%](https://progress-bar.dev/100)
+  * Quiz 5 Degree : 27/30 
   * Lecture 7: Pre-processor directives in C ![100%](https://progress-bar.dev/100)
+  * Quiz 6 Degree : 32/39
   * Lecture 8: C Pointers ![0%](https://progress-bar.dev/0)
 * Unit 3: Embedded C
   * Lecture 1 ![0%](https://progress-bar.dev/0)
